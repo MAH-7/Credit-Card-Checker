@@ -8,11 +8,12 @@
     <em><code>❯ A JavaScript project to validate and convert credit card numbers using the Luhn algorithm.</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/MAH-7/Credit-Card-Checker?style=flat&logo=opensourceinitiative&logoColor=white&color=00bcff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/MAH-7/Credit-Card-Checker?style=flat&logo=git&logoColor=white&color=00bcff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/MAH-7/Credit-Card-Checker?style=flat&color=00bcff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/MAH-7/Credit-Card-Checker?style=flat&color=00bcff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/MAH-7/Credit-Card-Checker?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/MAH-7/Credit-Card-Checker?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/MAH-7/Credit-Card-Checker?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/MAH-7/Credit-Card-Checker?style=flat&color=0080ff" alt="repo-language-count">
 </p>
+
 <p align="center">
 		<em>Built with the tools and technologies:</em>
 </p>
